@@ -8,9 +8,15 @@
 <p align="center">
 <a href="https://github.com/leilafarsani"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=3498DB&width=435&lines=A+Dedicated+Software+Engineer+👩🏻‍💻;Full-Stack+Web+Developer+🖥️;Technology+Enthusiast+%F0%9F%92%BB;Innovative+Problem-Solver+💡;Lifelong+Learner+%F0%9F%93%9A;&center=true&width=420&height=50"></a>
 </p>
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/leila-y-farsani-9966593b/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+<!--
 <div align="center">
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb252MWI2OWc3b3IzbDg1MGwwaHBjNHh5a2E0ajYxMmdoNWF0aW80OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/wdGijPLEuupSPUkv73/giphy.gif" width="111px"/>
-</div>
+</div> -->
 <h2 align="center">My Skills:</h2>
 <div align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
