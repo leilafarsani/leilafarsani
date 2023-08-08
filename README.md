@@ -31,4 +31,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Postgresql" alt="Postgresql" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
 
+
+<h2 align="center">My Stats:</h2>
+<div align="center" >
+  
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=leilafarsani&theme=blux&border_radius=9.4&date_format=j%20M%5B%20Y%5D&card_width=526)](https://git.io/streak-stats)
+<br/>
+<img src="https://komarev.com/ghpvc/?username=leilafarsani&style=flat-square&color=blue" alt=""/>
+</div>
