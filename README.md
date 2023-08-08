@@ -37,5 +37,7 @@
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=leilafarsani&theme=blux&border_radius=9.4&date_format=j%20M%5B%20Y%5D&card_width=526)](https://git.io/streak-stats)
 <br/>
-<img src="https://komarev.com/ghpvc/?username=leilafarsani&style=flat-square&color=blue" alt=""/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leilafarsani&langs_count=5&theme=react&layout=compact)
+<br/>
+<img src="https://komarev.com/ghpvc/?username=leilafarsani&style=flat-square&color=blue" alt="" width="130px"/>
 </div>
