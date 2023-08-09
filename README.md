@@ -38,11 +38,12 @@ src="https://media3.giphy.com/media/RMqA9y2hwbjxc41cr1/giphy.gif?cid=ecf05e47ukj
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=leilafarsani&theme=blux&border_radius=9.4&date_format=j%20M%5B%20Y%5D&card_width=526)](https://git.io/streak-stats)
 <br/>
-<h2 align="left">📈 My GitHub Stats</h2>
-<a href="https://github.com/leilafarsani"><img alt="Leila's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=leilafarsani&show_icons=true&count_private=true&theme=react&border_color=fff&bg_color=0D1117&title_color=3498DB&icon_color=3498DB&hide=stars" height="192px" width="49.5%"/></a>
+<h2 align="left">📈 GitHub Stats</h2>
+<a href="https://github.com/leilafarsani"><img alt="Leila's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=leilafarsani&show_icons=true&count_private=true&theme=react&border_color=fff&bg_color=0D1117&title_color=3498DB&icon_color=3498DB&hide=stars" height="230px" width="49.5%"/></a>
 <br/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leilafarsani&langs_count=5&theme=react&layout=compact)
 <br/>
-<img src="https://komarev.com/ghpvc/?username=leilafarsani&style=flat-square&color=blue" alt="" width="130px"/>
+
+<img src="https://komarev.com/ghpvc/?username=leilafarsani&style=flat-square&color=blue" alt="leila Github View Count" width="130px"/>
 </div>
