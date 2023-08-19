@@ -11,6 +11,9 @@ src="https://media3.giphy.com/media/RMqA9y2hwbjxc41cr1/giphy.gif?cid=ecf05e47ukj
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/leila-y-farsani-9966593b/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+     <a href="https://leila-portfolio.vercel.app/" target="blank">
+  <img src="https://img.shields.io/badge/Website-black?style=for-the-badge&logo=medium&logoColor=white" alt="website badge" />
+ </a>
   </a>
 </div>
 <!--
