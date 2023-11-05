@@ -16,11 +16,6 @@ src="https://media3.giphy.com/media/RMqA9y2hwbjxc41cr1/giphy.gif?cid=ecf05e47ukj
  </a>
   </a>
 </div>
-<!--
-<div align="center">
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb252MWI2OWc3b3IzbDg1MGwwaHBjNHh5a2E0ajYxMmdoNWF0aW80OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/wdGijPLEuupSPUkv73/giphy.gif" width="111px"/>
-</div> -->
-
 <div align="center">
   <h2 align="left">🛠️ My Skills</h2>
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
