@@ -9,7 +9,7 @@ src="https://media3.giphy.com/media/RMqA9y2hwbjxc41cr1/giphy.gif?cid=ecf05e47ukj
 <a href="https://github.com/leilafarsani"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=3498DB&width=435&lines=A+Dedicated+Data+Scientist+👩🏻‍💻;A+Passionate+Software+Engineer+🖥️;Technology+Enthusiast+%F0%9F%92%BB;Innovative+Problem-Solver+💡;Lifelong+Learner+%F0%9F%93%9A;&center=true&width=420&height=50"></a>
 </p>
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/leila-y-farsani-9966593b/">
+  <a href="https://www.linkedin.com/in/leila-farsani-9966593b/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
      <a href="https://leila-portfolio.vercel.app/" target="blank">
   <img src="https://img.shields.io/badge/Website-black?style=for-the-badge&logo=medium&logoColor=white" alt="website badge" />
