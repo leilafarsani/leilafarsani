@@ -1,7 +1,4 @@
-<div align="center">
-  <img
-src="https://media3.giphy.com/media/RMqA9y2hwbjxc41cr1/giphy.gif?cid=ecf05e47ukjzdqire93pizu3j6avjja4it8u9za2n9j42ikm&ep=v1_stickers_search&rid=giphy.gif&ct=ts)" align="left" width="111px"/>
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzh4aTB2cmdneGEwajdtcDlnZXk5d2IyN2I0cnpjMjc1cmxkcXJwZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/aIJDrOomj81MQZz2uO/giphy.gif" align="center" width="222px"/>
+<div align="center"> src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzh4aTB2cmdneGEwajdtcDlnZXk5d2IyN2I0cnpjMjc1cmxkcXJwZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/aIJDrOomj81MQZz2uO/giphy.gif" align="center" width="222px"/>
 <h1 align="center">I'm Leila</h1>
 
   </div>
