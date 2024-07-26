@@ -1,4 +1,4 @@
-<div align="center"> src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzh4aTB2cmdneGEwajdtcDlnZXk5d2IyN2I0cnpjMjc1cmxkcXJwZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/aIJDrOomj81MQZz2uO/giphy.gif" align="center" width="222px"/>
+<div align="center"> 
 <h1 align="center">I'm Leila</h1>
 
   </div>
