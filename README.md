@@ -1,8 +1,3 @@
-
-  <p align="center">
-<a href="https://github.com/leilafarsani"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=3498DB&width=435&lines=A+Passionate+Data+Scientist;Technology+Enthusiast+%F0%9F%92%BB;Innovative+Problem-Solver+💡;Lifelong+Learner+%F0%9F%93%9A;&center=true&width=420&height=50"></a>
-</p> -->
-
 <div align="center">
 <div align="center" >
 <h2 align="left"> 🔥 Streak Stats</h2> 
