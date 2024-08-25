@@ -1,4 +1,3 @@
-<div align="center">
 <div align="center" >
 <h2 align="left"> 🔥 Streak Stats</h2> 
   
