@@ -1,7 +1,7 @@
-<div align="center" >
-<h2 align="left"> 🔥 Streak Stats</h2> 
-  
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=leilafarsani&theme=blux&border_radius=9.4&date_format=j%20M%5B%20Y%5D&card_width=526)](https://git.io/streak-stats)
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=170&section=header&text=Leila%20Farsani&fontSize=44&fontColor=ffffff&fontAlignY=40" />
+</p>
 
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=leilafarsani&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+</p>
