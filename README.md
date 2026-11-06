@@ -8,7 +8,7 @@
   <tr>
     <td align="center" width="140">
       <img src="https://skillicons.dev/icons?i=python,postgres&theme=dark" /><br/>
-      <b>Data</b><br/><sub>Python · SQL · pandas</sub>
+      <b>Data</b><br/><sub>Python · SQL </sub>
     </td>
     <td align="center">➜</td>
     <td align="center" width="140">
